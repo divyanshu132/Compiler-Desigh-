@@ -1,2 +1,2 @@
-# Compiler-Desigh-
-Compiler Desigh Lab Programs
+# Compiler-Design
+Compiler Design Lab Programs
